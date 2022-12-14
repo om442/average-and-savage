@@ -8,12 +8,13 @@ The goal of this project is to provide users with a personalized list of other u
 ### **The Data**
 Our dataset for user features comes from a Kaggle dataset of LinkedIn profile data containing information about profile and job data.
 For a detailed description of the metadata or to download the dataset, refer to the Kaggle dataset listed below.
+
 Link: https://www.kaggle.com/datasets/killbot/linkedin 
 
 
 ### **Architecture & Design**
 See below for a high-level common process map of the system.
-![processmap](assets/Common%20Process%20Map%20DSCI560.pdf)
+![processmap](assets/Common%20Process%20Map%20DSCI560.png)
 
 
 ### **Functions & Components**
